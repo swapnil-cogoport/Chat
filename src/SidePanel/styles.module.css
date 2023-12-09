@@ -1,0 +1,29 @@
+.button{
+    width: 200px;
+    height: 50px;
+    background-color: #33343e;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+.chatsview{
+    margin-top: 12px;
+}
+.button_chat{
+    width: 180px;
+    height: 40px;
+    padding: 4px;
+    font-size: 14px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.button_wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 4px;
+   
+}

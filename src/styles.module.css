@@ -1,0 +1,21 @@
+.app {
+  width: 100vw;
+ display: flex;
+ background-color:#24252d;
+ height: 100vh;
+}
+.leftpanel{
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  flex: 1;
+ 
+}
+.rightpanel{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 5;
+  padding: 20px;
+
+}
